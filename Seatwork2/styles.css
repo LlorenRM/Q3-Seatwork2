@@ -1,0 +1,20 @@
+.container {
+	font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+body {
+  background-image: url(https://e0.pxfuel.com/wallpapers/72/504/desktop-wallpaper-firewatch-green-minimal.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.container {
+  background-color: mediumseagreen;
+  padding: 15px;
+  margin-top: 15px;
+}
+
+.form-control {
+  border: 2px solid #000;
+  margin-bottom: 10px; 
